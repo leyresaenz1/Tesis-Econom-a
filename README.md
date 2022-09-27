@@ -1,1 +1,2 @@
-# Tesis-Econom-a
+# Tesis-Economia
+En el presente trabajo se discute el efecto del decreto 520/2020 dictado el 7 de junio del 2020 sobre la fecundidad en Argentina. Dicho DNU fue el primero, después de 11 semanas de aislamiento y confinamiento obligatorio por la pandemia de Covid-19, en hacer una distinción entre las zonas en donde se observaba transmisión comunitaria del virus y el resto del país. Consiste en la implementación de un nuevo marco normativo para aquellas zonas en las que ya no existía circulación comunitaria de SARS-CoV-2. Para evaluar este impacto se utilizará la metodología de diferencias en diferencias. El trabajo constituye un acercamiento al análisis de eventos o políticas que puedan impactar de alguna forma sobre la fecundidad.
